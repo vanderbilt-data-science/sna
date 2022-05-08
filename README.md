@@ -11,7 +11,7 @@ Our project was based on the Amazon KDD Cup 2022 where the overall goal of the c
 
 ## Repo Files
 This repo contains 6 different notebooks that accomplishes a different step of this project. 
-- 01: Reading in data
+- 01: Reading in data: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1cZ7P3Xm0BYL1f-yqo-LzJl7At5ySBc7W/view?usp=sharing)
 - 02: Where we trained BERT algorithm
 - 03: We also trained a Word2Vec algorithm
 - 04: The models we trained, the Cross Encoder Classification
