@@ -6,7 +6,7 @@
 **This repo contains 5 main different notebooks that accomplish a different steps and models of this project:**
 
 - 01: `01-read-data.ipynb`: Reading in data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cZ7P3Xm0BYL1f-yqo-LzJl7At5ySBc7W)
-- 02: `02-sentence-embedding.ipynb`: Create the sentence embeddings by BERT models and collect [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fNsX-cSF1fqSTT72UWeEyAKnKrTD4miG)
+- 02: `02-sentence-embedding.ipynb`: Create the sentence embeddings by BERT models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fNsX-cSF1fqSTT72UWeEyAKnKrTD4miG)
 - 03: `06-fine-tune-our-dataset.ipynb`: Multi-Genre Natural Language Inference [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RErLqYTw5IoVPjzSeBbhvGibbVCzMycD)
 - 04: `05-Train-CrossEncoder-scores.ipynb`: Cross-Encoder Regression Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c5Vph8-NlBJVJLGkVYYKNBfp7_pv0jGF)
 - 05: `04-Train-CrossEncoder-classification.ipynb`: Cross-Encoder Classification Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c6RH_aqJZVc2Vfg6xPlV9cWmH52nlIF_)
